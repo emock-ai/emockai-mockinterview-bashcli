@@ -1,7 +1,10 @@
-##### Okay.. So.. Ummm.. What is this for?
-> This `README.md` provides a clear and concise overview of the project, including setup instructions, usage guidelines, configuration options, testing procedures, and licensing information. 
+##### Clueless Developer: Okay.. So.. Ummm.. What is this for?
+> This `README.md` provides a clear and concise overview of the project, including setup instructions, usage guidelines, configuration options, testing procedures, and licensing information.
+##### Clueless Developer: Oh, right.. 
+
 ---
 ---
+
 # emockai-mockinterview-bashcli
 
 ## Overview
