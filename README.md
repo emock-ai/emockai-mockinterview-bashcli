@@ -74,9 +74,10 @@ Wanna make sure everything works? Run:
 
 MIT License – because we believe in freedom (and disclaiming responsibility).  
 
-👨‍💻 *GitHub Org: "@emock-ai"*   
-🛠 *GitHub Author: "@tmuhali"*  
-
+🌐👔 *GitHub Org: "@emock-ai"*   
+🛠✍️ *GitHub Author: "@tmuhali, @tony-rsa"*  
+🔗💼*LinkedIn: "@tmuhali"*  
+📧☎️ *Email or Phone: [thmuhali@gmail.com](mailto:thmuhali@gmail.com) | +27 67 197 1822*
 ---
 
 ## *Note-to-self*
