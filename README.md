@@ -11,7 +11,7 @@
 ### 😎 A *Freshly Aligned* Developer:  
 **"Ah, got it! It's the magical README that saves us from chaos."**  
 ### 😊 A *Happy* Teacher:  
-**"Yeeess.. Nowwww you get it.."**
+**"Yeeess.. Nowwww you get it!"**
 
 ---
 
