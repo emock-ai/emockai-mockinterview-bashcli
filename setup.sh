@@ -1,12 +1,29 @@
 #!/bin/bash
 # setup.sh
 
-# Create necessary directories
-mkdir -p bin etc src tests logs
+# Enable strict mode for robust error handling.
+set -euo pipefail
 
-# Set execute permissions for scripts
-chmod +x bin/mock_interview.sh
-chmod +x src/interview_questions.sh
-chmod +x tests/test_mock_interview.sh
+echo "Starting setup..."
 
-echo "Setup completed."
+# Define necessary directories.
+directories=("bin" "etc" "src" "tests" "logs")
+
+for dir in "${directories[@]}"; do
+    mkdir -p "$dir"
+    echo "Directory '$dir' ensured."
+done
+
+# List of scripts to set executable permissions.
+scripts=("bin/mock_interview.sh" "src/interview_questions.sh" "tests/test_mock_interview.sh")
+
+for script in "${scripts[@]}"; do
+    if [[ -f "$script" ]]; then
+        chmod +x "$script"
+        echo "Executable permission set on $script"
+    else
+        echo "Warning: $script not found; skipping permission change."
+    fi
+done
+
+echo "Setup completed successfully."
