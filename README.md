@@ -1,4 +1,4 @@
-[praise the lord](https://www.youtube.com/watch?v=w-_uZP-EYkc):  
+[FIRST THING FIRST, Praise the lord!](https://www.youtube.com/watch?v=w-_uZP-EYkc):  
 
 ---
 
