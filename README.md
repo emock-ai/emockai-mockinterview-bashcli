@@ -66,6 +66,7 @@ Want to ace that job interview? Need to practice on the fly? This CLI’s got yo
 ```bash
 ./bin/mock_interview.sh
 ```
+Tip: Use the --text or --audio flags (if supported) to choose your interview mode.
 
 ---
 
