@@ -1,4 +1,4 @@
-##### **FIRST THING FIRST** - [Praise the Lord! nhe](https://www.youtube.com/watch?v=w-_uZP-EYkc):  
+##### **FIRST THING FIRST** - [Praise the Lord!](https://www.youtube.com/watch?v=w-_uZP-EYkc), AMEN..  
 
 ---
 
