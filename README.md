@@ -1,3 +1,6 @@
+> This `README.md` provides a clear and concise overview of the project, including setup instructions, usage guidelines, configuration options, testing procedures, and licensing information. 
+---
+---
 # emockai-mockinterview-bashcli
 
 ## Overview
@@ -15,7 +18,7 @@
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/emockai-mockinterview-bashcli.git
+   git clone https://github.com/emock-ai/emockai-mockinterview-bashcli.git
    ```
 
 2. **Navigate to the project directory:**
@@ -57,6 +60,6 @@ Execute tests to verify functionality:
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
-*Github Username - "@tmuhali"*
+*Github Org  - "@emock-ai"*
+*Github Author Username - "@tmuhali"*
 
-This `README.md` provides a clear and concise overview of the project, including setup instructions, usage guidelines, configuration options, testing procedures, and licensing information. 
