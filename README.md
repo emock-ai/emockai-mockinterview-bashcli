@@ -1,5 +1,6 @@
 ##### **FIRST THING FIRST** -
-> [Praise the Lord!](https://www.youtube.com/watch?v=w-_uZP-EYkc), AMEN..  
+> [Praise the Lord!](https://www.youtube.com/watch?v=w-_uZP-EYkc)
+> AMEN.
 
 ---
 
