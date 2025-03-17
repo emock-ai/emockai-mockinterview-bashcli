@@ -56,6 +56,7 @@ Want to ace that job interview? Need to practice on the fly? This CLI’s got yo
    ```bash
    ./setup.sh
    ```
+Don't worry—it won’t bite!
 
 ---
 
