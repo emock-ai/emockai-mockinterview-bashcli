@@ -1,0 +1,6 @@
+2025-03-17 09:00:00 - Interview started.
+2025-03-17 09:01:15 - Asked: Can you explain the concept of polymorphism in object-oriented programming?
+2025-03-17 09:02:30 - Answered: Polymorphism allows objects of different classes to be treated as objects of a common superclass. It is achieved through method overriding and interfaces.
+2025-03-17 09:03:45 - Asked: How do you handle error logging in your applications?
+2025-03-17 09:05:00 - Answered: I implement centralized logging using tools like Logstash and ensure that all errors are logged with appropriate severity levels for monitoring and debugging.
+2025-03-17 09:06:15 - Interview completed.
